@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+<meta charset="UTF-8">
+<title>Trabalho 4 pontos Html</title>
+</head>
+<body>
+        <tr> 
+
+            <td text-align = "center">
+
+                <h1> Projeto Perfil do Aluno - Fase 01 </h1>
+
+            </td>
+        </tr>
+
+        <tr> 
+
+            <td text-align = "center">
+
+                    <h3> Nome: Danilo Anders de Aquino Gomes </h3>
+                    <img src = "C:\Users\danil\Downloads\Captura de tela 2025-03-20 194916.jpg" height = "250"></img>
+
+            </td>
+
+        </tr>
+                <p> RA: 12412485 </p>
+
+                <p> Curso e periodo atual: Sistemas de informação. 3° Período</p>
+
+                <p> Endereço: Rua Santa Matilde, 174 - Nossa Senhora de Lourdes - Ibirité</p>
+
+                <p> Email: daniloanders05@gmail.com / 12412485@ulife.com.br </p>
+
+                <p> UCS Cursadas: 
+                    <ul> 
+                        <li>
+                            Modelagem de Software
+                        </li>
+
+                        <li> 
+                            Programação e Soluções Computacionais
+                        </li>  
+                        
+                    <li>
+                        Vida e carreira
+                    </li>
+
+                    <li> 
+                     Sistemas Computacionais e Segurança 
+                    </li>
+
+                    <li> 
+                     Ambientes Computacionais e Conectividade
+                    </li>
+                </ul>
+            </p>
+
+                <p> Breve descrição do perfil pessoal :  Atualmente moro com meus pais e minha irmã, 
+                    sou sócio minha mãe na nossa microempresa no ramo Pet Care. Como hobbie gosto muito de andar de moto,
+                     encontrar com meus amigos pra jogar conversa fora e as vezes, jogar futebol. </p>
+
+            <p> 
+                Breve descrição de seu perfil professional/acadêmico: 
+                Trabalho com minha mãe há três anos e já atuei como freelancer em um restaurante por alguns meses. 
+                Além disso, tenho curso de comissário, com treinamento em sobrevivência na selva, e nível intermediário/avançado em inglês.
+                 Atualmente, estou cursando Tecnologia da Informação,
+                 mesmo sem ter muita noção prévia da área, pois me atrai a diversidade de atuações e o dinamismo do mercado.
+            </p>
+
+            <p>
+                link LinkedIn: https://www.linkedin.com/in/danilo-anders-de-aquino-gomes-073798277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app<br>
+                link Instagram: https://www.instagram.com/danilo_.z?igsh=ajByZDBuMHJvM2dk&utm_source=qr
+                
+            </p>
+</body>
+</html>
